@@ -12,18 +12,11 @@ PyTorch implementation for CRAFT text detector that effectively detect text area
 
 <img width="1000" alt="teaser" src="./figures/craft_example.gif">
 
-## Updates
-**13 Jun, 2019**: Initial update
-**20 Jul, 2019**: Added post-processing for polygon result
-**28 Sep, 2019**: Added the trained model on IC15 and the link refiner
-
-
 ## Getting started
 ### Install dependencies
 #### Requirements
-- PyTorch>=0.4.1
-- torchvision>=0.2.1
-- opencv-python>=3.4.2
+- paddlepaddle-gpu >= 2.0.0 or paddlepaddle >= 2.0.0
+- opencv-python >= 3.4.2
 - check requiremtns.txt
 ```
 pip install -r requirements.txt
