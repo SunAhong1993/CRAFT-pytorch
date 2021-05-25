@@ -16,6 +16,7 @@ PyTorch implementation for CRAFT text detector that effectively detect text area
 ### Install dependencies
 #### Requirements
 - paddlepaddle-gpu >= 2.0.0 or paddlepaddle >= 2.0.0
+- [x2paddle](https://github.com/PaddlePaddle/X2Paddle) >= 1.2.1
 - opencv-python >= 3.4.2
 - check requiremtns.txt
 ```
